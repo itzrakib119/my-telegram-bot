@@ -2,4 +2,3 @@ requests
 firebase-admin
 pyotp
 beautifulsoup4
-flask
